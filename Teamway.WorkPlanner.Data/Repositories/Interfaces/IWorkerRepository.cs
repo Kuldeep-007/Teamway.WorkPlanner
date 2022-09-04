@@ -9,5 +9,4 @@ namespace Teamway.WorkPlanner.Data.Interfaces
     public interface IWorkerRepository
     {
     }
-
 }
