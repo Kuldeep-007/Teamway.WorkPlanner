@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Teamway.WorkPlanner.Data.Interfaces
 {
-    public interface IAdminRepository
+    public interface IWorkerRepository
     {
     }
 
