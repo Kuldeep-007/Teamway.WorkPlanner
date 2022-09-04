@@ -1,0 +1,12 @@
+C:\Com\Teamway\Teamway.WorkPlanner\Teamway.WorkPlanner.Data\bin\Debug\net6.0\Teamway.WorkPlanner.Data.deps.json
+C:\Com\Teamway\Teamway.WorkPlanner\Teamway.WorkPlanner.Data\bin\Debug\net6.0\Teamway.WorkPlanner.Data.dll
+C:\Com\Teamway\Teamway.WorkPlanner\Teamway.WorkPlanner.Data\bin\Debug\net6.0\Teamway.WorkPlanner.Data.pdb
+C:\Com\Teamway\Teamway.WorkPlanner\Teamway.WorkPlanner.Data\obj\Debug\net6.0\Teamway.WorkPlanner.Data.csproj.AssemblyReference.cache
+C:\Com\Teamway\Teamway.WorkPlanner\Teamway.WorkPlanner.Data\obj\Debug\net6.0\Teamway.WorkPlanner.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Com\Teamway\Teamway.WorkPlanner\Teamway.WorkPlanner.Data\obj\Debug\net6.0\Teamway.WorkPlanner.Data.AssemblyInfoInputs.cache
+C:\Com\Teamway\Teamway.WorkPlanner\Teamway.WorkPlanner.Data\obj\Debug\net6.0\Teamway.WorkPlanner.Data.AssemblyInfo.cs
+C:\Com\Teamway\Teamway.WorkPlanner\Teamway.WorkPlanner.Data\obj\Debug\net6.0\Teamway.WorkPlanner.Data.csproj.CoreCompileInputs.cache
+C:\Com\Teamway\Teamway.WorkPlanner\Teamway.WorkPlanner.Data\obj\Debug\net6.0\Teamway.WorkPlanner.Data.dll
+C:\Com\Teamway\Teamway.WorkPlanner\Teamway.WorkPlanner.Data\obj\Debug\net6.0\refint\Teamway.WorkPlanner.Data.dll
+C:\Com\Teamway\Teamway.WorkPlanner\Teamway.WorkPlanner.Data\obj\Debug\net6.0\Teamway.WorkPlanner.Data.pdb
+C:\Com\Teamway\Teamway.WorkPlanner\Teamway.WorkPlanner.Data\obj\Debug\net6.0\ref\Teamway.WorkPlanner.Data.dll

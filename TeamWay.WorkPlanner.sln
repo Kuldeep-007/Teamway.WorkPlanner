@@ -3,7 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamWay.WorkPlanner", "TeamWay.WorkPlanner\TeamWay.WorkPlanner.csproj", "{8AD825F1-18CF-499C-BDF4-E887BEB7C853}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamWay.WorkPlanner.Api", "TeamWay.WorkPlanner\TeamWay.WorkPlanner.Api.csproj", "{8AD825F1-18CF-499C-BDF4-E887BEB7C853}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teamway.WorkPlanner.Data", "Teamway.WorkPlanner.Data\Teamway.WorkPlanner.Data.csproj", "{1F8C81A4-A391-4FAE-B61F-618CD9039D5D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution items", "Solution items", "{D3DC47DE-036D-48D3-83E1-14AFB7DBE024}"
+	ProjectSection(SolutionItems) = preProject
+		db_migration.txt = db_migration.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +22,10 @@ Global
 		{8AD825F1-18CF-499C-BDF4-E887BEB7C853}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AD825F1-18CF-499C-BDF4-E887BEB7C853}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AD825F1-18CF-499C-BDF4-E887BEB7C853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F8C81A4-A391-4FAE-B61F-618CD9039D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F8C81A4-A391-4FAE-B61F-618CD9039D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F8C81A4-A391-4FAE-B61F-618CD9039D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F8C81A4-A391-4FAE-B61F-618CD9039D5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

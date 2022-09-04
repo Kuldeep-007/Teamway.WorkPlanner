@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Com\\Teamway\\Teamway.WorkPlanner\\TeamWay.WorkPlanner\\TeamWay.WorkPlanner.csproj": {}
+    "C:\\Com\\Teamway\\Teamway.WorkPlanner\\Teamway.WorkPlanner.Data\\Teamway.WorkPlanner.Data.csproj": {}
   },
   "projects": {
-    "C:\\Com\\Teamway\\Teamway.WorkPlanner\\TeamWay.WorkPlanner\\TeamWay.WorkPlanner.csproj": {
+    "C:\\Com\\Teamway\\Teamway.WorkPlanner\\Teamway.WorkPlanner.Data\\Teamway.WorkPlanner.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Com\\Teamway\\Teamway.WorkPlanner\\TeamWay.WorkPlanner\\TeamWay.WorkPlanner.csproj",
-        "projectName": "TeamWay.WorkPlanner",
-        "projectPath": "C:\\Com\\Teamway\\Teamway.WorkPlanner\\TeamWay.WorkPlanner\\TeamWay.WorkPlanner.csproj",
+        "projectUniqueName": "C:\\Com\\Teamway\\Teamway.WorkPlanner\\Teamway.WorkPlanner.Data\\Teamway.WorkPlanner.Data.csproj",
+        "projectName": "Teamway.WorkPlanner.Data",
+        "projectPath": "C:\\Com\\Teamway\\Teamway.WorkPlanner\\Teamway.WorkPlanner.Data\\Teamway.WorkPlanner.Data.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Com\\Teamway\\Teamway.WorkPlanner\\TeamWay.WorkPlanner\\obj\\",
+        "outputPath": "C:\\Com\\Teamway\\Teamway.WorkPlanner\\Teamway.WorkPlanner.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -46,13 +46,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[1.17.0, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[6.0.8, )"
             }
           },
           "imports": [
@@ -67,9 +63,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
