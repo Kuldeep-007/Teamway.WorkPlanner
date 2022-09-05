@@ -8,6 +8,7 @@ namespace Teamway.WorkPlanner.Data.Migrations
         public Worker()
         {
             Credentials = new HashSet<Credential>();
+            WorkerShifts = new HashSet<WorkerShift>();
         }
 
         public int Id { get; set; }
@@ -21,5 +22,6 @@ namespace Teamway.WorkPlanner.Data.Migrations
         public bool IsActive { get; set; }
 
         public virtual ICollection<Credential> Credentials { get; set; }
+        public virtual ICollection<WorkerShift> WorkerShifts { get; set; }
     }
 }

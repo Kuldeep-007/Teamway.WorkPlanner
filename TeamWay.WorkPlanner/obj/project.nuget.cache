@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "E60e1bGhxHWtA5hQ6skQBWNsjElRGCD6FUSS2p5Tg5wxtLN/7FJ6SGRrM3cC0oTHB3LHG8ifKWpxUWTaBUHb3Q==",
+  "dgSpecHash": "hWDwxj8OClNPY8u7wx5GNa5HpkQ6Y4DvxEEw+TB1kY5npiZeSgm9ajiLztHXA0F/TnRvhFbCGgteeZBPvEyp6w==",
   "success": true,
   "projectFilePath": "C:\\Com\\Teamway\\Teamway.WorkPlanner\\TeamWay.WorkPlanner\\TeamWay.WorkPlanner.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\enums.net\\4.0.0\\enums.net.4.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

@@ -78,6 +78,12 @@ namespace Teamway.WorkPlanner.Data.Migrations
                 entity.Property(e => e.Date).HasColumnType("datetime");
 
                 entity.Property(e => e.UpdatedOn).HasColumnType("datetime");
+
+                entity.HasOne(d => d.Worker)
+                    .WithMany(p => p.WorkerShifts)
+                    .HasForeignKey(d => d.WorkerId)
+                    .OnDelete(DeleteBehavior.ClientSetNull)
+                    .HasConstraintName("FK_WorkerShift_Worker");
             });
 
             OnModelCreatingPartial(modelBuilder);

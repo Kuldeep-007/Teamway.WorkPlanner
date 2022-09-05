@@ -12,5 +12,7 @@ namespace Teamway.WorkPlanner.Data.Migrations
         public DateTime CreatedOn { get; set; }
         public DateTime UpdatedOn { get; set; }
         public bool IsActive { get; set; }
+
+        public virtual Worker Worker { get; set; } = null!;
     }
 }

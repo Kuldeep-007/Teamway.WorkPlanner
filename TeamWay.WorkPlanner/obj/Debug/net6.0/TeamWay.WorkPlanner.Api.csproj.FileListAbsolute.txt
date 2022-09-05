@@ -61,3 +61,4 @@ C:\Com\Teamway\Teamway.WorkPlanner\TeamWay.WorkPlanner\obj\Debug\net6.0\refint\T
 C:\Com\Teamway\Teamway.WorkPlanner\TeamWay.WorkPlanner\obj\Debug\net6.0\TeamWay.WorkPlanner.Api.pdb
 C:\Com\Teamway\Teamway.WorkPlanner\TeamWay.WorkPlanner\obj\Debug\net6.0\TeamWay.WorkPlanner.Api.genruntimeconfig.cache
 C:\Com\Teamway\Teamway.WorkPlanner\TeamWay.WorkPlanner\obj\Debug\net6.0\ref\TeamWay.WorkPlanner.Api.dll
+C:\Com\Teamway\Teamway.WorkPlanner\TeamWay.WorkPlanner\bin\Debug\net6.0\Enums.NET.dll
